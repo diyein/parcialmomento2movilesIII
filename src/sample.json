@@ -1,0 +1,22 @@
+[
+    {
+        "document": "71245678",
+        "name": "pedro",
+        "surname": "jimenez",
+        "dateofbirth": "18/02/1945",
+        "city": "medellin",
+        "neighborhood": "laureles",
+        "cellnumber": "3024567890"
+        
+        
+    },
+    {
+        "document": "95678031",
+        "name": "jaime",
+        "surname": "toro",
+        "dateofbirth": "25/01/1967",
+        "city": "medellin",
+        "neighborhood": "poblado",
+        "cellnumber": "3014555010"
+    }
+]
